@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1532783167 source:c:\users\hp\documents\data structure task in c++\the task in c++.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
